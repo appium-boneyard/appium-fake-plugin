@@ -18,6 +18,11 @@
     "node": ">=10",
     "npm": ">=6"
   },
+  "appium": {
+    "pluginName": "fake",
+    "mainClass": "FakePlugin"
+  },
+  "main": "./build/index.js",
   "directories": {
     "lib": "./lib"
   },
