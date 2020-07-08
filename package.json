@@ -1,5 +1,5 @@
 {
-  "name": "appium-fake-plugin",
+  "name": "@appium/fake-plugin",
   "description": "A fake Appium 2.0 plugin",
   "tags": [
     "appium"
