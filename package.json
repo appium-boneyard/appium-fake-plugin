@@ -28,7 +28,7 @@
   },
   "files": [
     "lib",
-    "build/lib"
+    "build"
   ],
   "dependencies": {
     "@appium/base-plugin": "^1.3.0",
