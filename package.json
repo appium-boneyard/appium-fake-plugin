@@ -31,7 +31,7 @@
     "build"
   ],
   "dependencies": {
-    "@appium/base-plugin": "^1.3.0",
+    "@appium/base-plugin": "^1.5.0",
     "@babel/runtime": "^7.6.0",
     "appium-support": "2.x",
     "bluebird": "^3.7.2",
