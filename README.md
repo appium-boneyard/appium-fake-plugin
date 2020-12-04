@@ -1,2 +1,5 @@
 # appium-fake-plugin
-A fake Appium 2.0 plugin used for testing and examples
+
+## DEPRECATED
+
+This repo is now hosted as part of the [Appium Plugin Monorepo](https://github.com/appium/appium-plugins)
